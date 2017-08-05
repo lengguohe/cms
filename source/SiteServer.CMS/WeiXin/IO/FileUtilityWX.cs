@@ -11,6 +11,7 @@ namespace SiteServer.CMS.WeiXin.IO
     {
         private FileUtilityWX()
         {
+
         }
 
         public static void DeleteWeiXinContent(PublishmentSystemInfo publishmentSystemInfo, int keywordID, int resourceID)
